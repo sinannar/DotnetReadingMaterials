@@ -7,6 +7,11 @@ I am collecting the blog posts and magazine articles about .Net and C# from the 
 - [ASP.NET Core Blog](https://devblogs.microsoft.com/dotnet/category/aspnetcore/)
 - [C# Blog](https://devblogs.microsoft.com/dotnet/category/csharp/)
 
+# Useful Pages
+- [.NET Source Browser](https://source.dot.net/)
+- [SharpLab - C# Compiler (to C#, to JIT Asm, to IL)](https://sharplab.io/)
+- [RegExr - Learn, Build & Test RegeEx](https://regexr.com/)
+- [MonkeyType - Minimalistic typing test](https://monkeytype.com/)
 
 ## Deep Dotnet Youtube [Playlist](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oX8eqDkSw4hH9cSehrGgdr1)
 1. Writing async/await from scratch in C# with Stephen Toub
