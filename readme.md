@@ -1,3 +1,27 @@
+### [2017 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/2017)
+- April [Understanding C# foreach Internals and Custom Iterators with yield](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/april/essential-net-understanding-csharp-foreach-internals-and-custom-iterators-with-yield)
+- May [Cross-Platform Code Generation with Roslyn and .NET Core](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/may/net-core-cross-platform-code-generation-with-roslyn-and-net-core)
+- June [Custom Iterators with Yield](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/june/essential-net-custom-iterators-with-yield)
+- August [Git Internals: Architecture and Index Files](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/august/devops-git-internals-architecture-and-index-files)
+- August [C# 7.0: Tuples Explained](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/august/essential-net-csharp-7-0-tuples-explained)
+- September [Demystifying .NET Core and .NET Standard](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/september/net-standard-demystifying-net-core-and-net-standard)
+- September [Cookies, Claims and Authentication in ASP.NET Core](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/september/cutting-edge-cookies-claims-and-authentication-in-asp-net-core)
+- September [Write .NET Apps How and Where You Want](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/september/net-core-write-net-apps-how-and-where-you-want)
+- September [DDD-Friendlier EF Core 2.0](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/september/data-points-ddd-friendlier-ef-core-2-0)
+- September [Getting Started with ASP.NET Core 2.0](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/september/asp-net-core-getting-started-with-asp-net-core-2-0)
+- September [Simpler ASP.NET MVC Apps with Razor Pages](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/september/asp-net-core-simpler-asp-net-mvc-apps-with-razor-pages)
+- September [Snapshot Debugging for Production Apps and Services in Azure](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/september/asp-net-core-snapshot-debugging-for-production-apps-and-services-in-azure)
+- October [DDD-Friendlier EF Core 2.0, Part 2](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/october/data-points-ddd-friendlier-ef-core-2-0-part-2)
+- October [Time-Series Regression Using a C# Neural Network](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/october/test-run-time-series-regression-using-a-csharp-neural-network)
+- November [Kernel Logistic Regression Using C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/november/test-run-kernel-logistic-regression-using-csharp)
+- December [Modernize a .NET App with Docker and Windows Server Containers](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/december/containers-modernize-a-net-app-with-docker-and-windows-server-containers)
+- December [Configuring ASP.NET Core Applications](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/december/cutting-edge-configuring-asp-net-core-applications)
+- December [Understanding k-NN Classification Using C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/december/test-run-understanding-k-nn-classification-using-csharp)
+- Connect [All About Span: Exploring a New .NET Mainstay](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/connect/csharp-all-about-span-exploring-a-new-net-mainstay)
+
+
+
+
 ### [2016 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/msdn-magazine-issues-from-2016)
 - January [C# Scripting](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/january/essential-net-csharp-scripting)
 - February [Customizable Scripting in C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/february/csharp-customizable-scripting-in-csharp)
