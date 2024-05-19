@@ -5,10 +5,6 @@ title: ''
 labels: enhancement
 assignees: sinannar
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: input
     id: contact
     attributes:
