@@ -4,6 +4,7 @@
 - [ASP.NET Core Blog](https://devblogs.microsoft.com/dotnet/category/aspnetcore/)
 - [C# Blog](https://devblogs.microsoft.com/dotnet/category/csharp/)
 
+
 ## Deep Dotnet Youtube [Playlist](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oX8eqDkSw4hH9cSehrGgdr1)
 1. Writing async/await from scratch in C# with Stephen Toub
 2. Deep Dive on LINQ with Stephen Toub
@@ -12,6 +13,28 @@
 5. A Complete .Net Developer's Guide to Span with Stephen Toub
 6. ...
 
+
+## [Dotnet C# Blog](https://devblogs.microsoft.com/dotnet/category/csharp/)
+- [Regular Expression Improvements in .NET 7 (May 12th, 2022)](https://devblogs.microsoft.com/dotnet/regular-expression-improvements-in-dotnet-7/)
+- [New .NET 6 APIs driven by the developer community (August 23rd, 2021)](https://devblogs.microsoft.com/dotnet/new-dotnet-6-apis-driven-by-the-developer-community/)
+- [Understanding the cost of C# delegates (August 18th, 2021)](https://devblogs.microsoft.com/dotnet/understanding-the-cost-of-csharp-delegates/)
+- [Performance Improvements in .NET 6 (August 17th, 2021)](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/)
+- [String Interpolation in C# 10 and .NET 6 (August 10th, 2021)](https://devblogs.microsoft.com/dotnet/string-interpolation-in-c-10-and-net-6/)
+- [Announcing Open Source C# standardization (April 5th, 2021)](https://devblogs.microsoft.com/dotnet/announcing-open-source-c-standardization-standards/)
+- [Loop alignment in .NET 6 (March 25th, 2021)](https://devblogs.microsoft.com/dotnet/loop-alignment-in-net-6/)
+- [Using C# Source Generators to create an external DSL (January 27th, 2021)](https://devblogs.microsoft.com/dotnet/using-c-source-generators-to-create-an-external-dsl/)
+- [Infer#: Interprocedural Memory Safety Analysis For C# (December 8th, 2020)](https://devblogs.microsoft.com/dotnet/infer-interprocedural-memory-safety-analysis-for-c/)
+- [New C# Source Generator Samples (August 25th, 2020)](https://devblogs.microsoft.com/dotnet/new-c-source-generator-samples/)
+- [Async ValueTask Pooling in .NET 5 (March 16th, 2020)](https://devblogs.microsoft.com/dotnet/async-valuetask-pooling-in-net-5/)
+- [ConfigureAwait FAQ (December 11th, 2019)](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
+- [An Introduction to System.Threading.Channels (December 11th, 2019)](https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/)
+- [Default implementations in interfaces (May 14th, 2019)](https://devblogs.microsoft.com/dotnet/default-implementations-in-interfaces/)
+
+
+## Dotnet Blog Authors
+- [Stephen Toub - MSFT (Partner Software Engineer, .NET)](https://devblogs.microsoft.com/dotnet/author/toub/)
+- [David Fowler - Distinguished Engineer, .NET](https://devblogs.microsoft.com/dotnet/author/davifowl/)
+- [Mads Torgersen (C# Lead Designer, .NET Team)](https://devblogs.microsoft.com/dotnet/author/madst/)
 
 ## [MSDN Magazine Issues](https://learn.microsoft.com/en-us/archive/msdn-magazine/msdn-magazine-issues)
 
