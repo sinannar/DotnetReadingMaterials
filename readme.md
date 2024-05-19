@@ -15,6 +15,11 @@
 
 
 ## [Dotnet C# Blog](https://devblogs.microsoft.com/dotnet/category/csharp/)
+- [Refactor your code with C# collection expressions (May 8th, 2024)](https://devblogs.microsoft.com/dotnet/refactor-your-code-with-collection-expressions/)
+- [Refactor your C# code with primary constructors (April 23rd, 2024)](https://devblogs.microsoft.com/dotnet/csharp-primary-constructors-refactoring/)
+- [Resilience and chaos engineering (February 9th, 2024)](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/)
+- [Introducing .NET Aspire: Simplifying Cloud-Native Development with .NET 8 (November 14th, 2023)](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-simplifying-cloud-native-development-with-dotnet-8/)
+- [Tune into the C# Certification Training Series (September 22nd, 2023)](https://devblogs.microsoft.com/dotnet/csharp-certification-training-series/)
 - [Regular Expression Improvements in .NET 7 (May 12th, 2022)](https://devblogs.microsoft.com/dotnet/regular-expression-improvements-in-dotnet-7/)
 - [New .NET 6 APIs driven by the developer community (August 23rd, 2021)](https://devblogs.microsoft.com/dotnet/new-dotnet-6-apis-driven-by-the-developer-community/)
 - [Understanding the cost of C# delegates (August 18th, 2021)](https://devblogs.microsoft.com/dotnet/understanding-the-cost-of-csharp-delegates/)
@@ -34,7 +39,8 @@
 ## Dotnet Blog Authors
 - [Stephen Toub - MSFT (Partner Software Engineer, .NET)](https://devblogs.microsoft.com/dotnet/author/toub/)
 - [David Fowler - Distinguished Engineer, .NET](https://devblogs.microsoft.com/dotnet/author/davifowl/)
-- [Mads Torgersen (C# Lead Designer, .NET Team)](https://devblogs.microsoft.com/dotnet/author/madst/)
+- [Mads Torgersen - C# Lead Designer, .NET Team](https://devblogs.microsoft.com/dotnet/author/madst/)
+- [David Pine - Senior Content Developer, .NET](https://devblogs.microsoft.com/dotnet/author/dapine/)
 
 ## [MSDN Magazine Issues](https://learn.microsoft.com/en-us/archive/msdn-magazine/msdn-magazine-issues)
 
