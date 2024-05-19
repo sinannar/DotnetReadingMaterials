@@ -1,3 +1,12 @@
+## [MSDN Magazine Issues](https://learn.microsoft.com/en-us/archive/msdn-magazine/msdn-magazine-issues)
+
+### [2019 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/2019)
+
+
+### [2018 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/2018)
+
+
+
 ### [2017 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/2017)
 - April [Understanding C# foreach Internals and Custom Iterators with yield](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/april/essential-net-understanding-csharp-foreach-internals-and-custom-iterators-with-yield)
 - May [Cross-Platform Code Generation with Roslyn and .NET Core](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/may/net-core-cross-platform-code-generation-with-roslyn-and-net-core)
