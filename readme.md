@@ -1,6 +1,21 @@
 ## [MSDN Magazine Issues](https://learn.microsoft.com/en-us/archive/msdn-magazine/msdn-magazine-issues)
 
 ### [2019 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/2019)
+- January [Machine Learning Through Probabilistic Programming](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/january/net-machine-learning-through-probabilistic-programming)
+- January [Coding Naked](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/january/the-working-programmer-coding-naked)
+- February [Minimize Complexity in Multithreaded C# Code](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/february/csharp-minimize-complexity-in-multithreaded-csharp-code)
+- March [Full Stack C# with Blazor](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/march/web-development-full-stack-csharp-with-blazor)
+- March [Parse the Command Line with System.CommandLine](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/march/net-parse-the-command-line-with-system-commandline)
+- March [Support Vector Machines Using C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/march/csharp-support-vector-machines-using-csharp)
+- April [Implementing Your Own Enterprise Search](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/april/net-implementing-your-own-enterprise-search)
+- May [Pattern Matching in C# 8.0](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/may/csharp-8-0-pattern-matching-in-csharp-8-0)
+- June [Super-DRY Development for ASP.NET Core](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/june/patterns-and-practices-super-dry-development-for-asp-net-core)
+- July [.NET Reunified: Microsoft’s Plans for .NET 5](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/july/csharp-net-reunified-microsoft%E2%80%99s-plans-for-net-5)
+- September [Expression Trees in Visual Basic and C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/september/net-development-expression-trees-in-visual-basic-and-csharp)
+- October [Accessing XML Documentation via Reflection](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/october/csharp-accessing-xml-documentation-via-reflection)
+- November [Iterating with Async Enumerables in C# 8](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/november/csharp-iterating-with-async-enumerables-in-csharp-8)
+- November [Programming Smart Contracts in C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/november/blockchain-programming-smart-contracts-in-csharp)
+- November [Mixture Model Clustering Using C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/november/test-run-mixture-model-clustering-using-csharp)
 
 
 ### [2018 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/2018)
