@@ -4,6 +4,26 @@
 
 
 ### [2018 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/2018)
+- January [All About Span: Exploring a New .NET Mainstay](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/january/csharp-all-about-span-exploring-a-new-net-mainstay)
+- February [C# 8.0 and Nullable Reference Types](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/february/essential-net-csharp-8-0-and-nullable-reference-types)
+- February [Event-Driven Architecture in the Cloud with Azure Event Grid](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/february/azure-event-driven-architecture-in-the-cloud-with-azure-event-grid)
+- March [Blockchain Fundamentals](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/march/blockchain-blockchain-fundamentals)
+- March [Enterprise Data Integration Patterns with Azure Service Bus](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/march/azure-enterprise-data-integration-patterns-with-azure-service-bus)
+- March [Secure Your Sensitive Business Information with Azure Key Vault](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/march/azure-secure-your-sensitive-business-information-with-azure-key-vault)
+- May [Under the Covers of ASP.NET Core SignalR](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/may/cutting-edge-under-the-covers-of-asp-net-core-signalr)
+- May [Any Language, Any Platform with Azure DevOps Projects](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/may/devops-any-language-any-platform-with-azure-devops-projects)
+- June [Tuple Trouble: Why C# Tuples Get to Break the Guidelines](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/june/csharp-tuple-trouble-why-csharp-tuples-get-to-break-the-guidelines)
+- June [Introducing Azure Blockchain Workbench](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/june/blockchain-introducing-azure-blockchain-workbench)
+- August [Introduction to Q-Learning Using C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/august/test-run-introduction-to-q-learning-using-csharp)
+- September [C# in the Browser with Blazor](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/september/web-development-csharp-in-the-browser-with-blazor)
+- September [Architect Blockchain Applications as Microservices](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/september/microservices-architect-blockchain-applications-as-microservices)
+- October [Essential .NET - How to Contribute to Microsoft Open Source Software Projects](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/october/essential-net-how-to-contribute-to-microsoft-open-source-software-projects)
+- November [.NET Core - Publishing Options with .NET Core](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/november/net-core-publishing-options-with-net-core)
+- November [Azure Service Bus - Web Site Background Processing with Service Bus Queues](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/november/azure-service-bus-web-site-background-processing-with-service-bus-queues)
+- November [.NET - Create Your Own Script Language with Symbolic Delegates](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/november/net-create-your-own-script-language-with-symbolic-delegates)
+- December [Up and Running with Azure Kubernetes Services](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/december/containers-up-and-running-with-azure-kubernetes-services)
+
+
 
 
 
