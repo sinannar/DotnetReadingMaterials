@@ -1,3 +1,6 @@
+# About
+I am collecting the blog posts and magazine articles about .Net and C# from the dotnet channels. There is not a real structure in this readme, the plan is creating categories and sub pages in the future.
+
 # Blogs
 - [ASP.NET BLog](https://devblogs.microsoft.com/dotnet/category/aspnet/)
 - [.NET Core BLog](https://devblogs.microsoft.com/dotnet/tag/net-core/)
@@ -42,9 +45,9 @@
 - [Mads Torgersen - C# Lead Designer, .NET Team](https://devblogs.microsoft.com/dotnet/author/madst/)
 - [David Pine - Senior Content Developer, .NET](https://devblogs.microsoft.com/dotnet/author/dapine/)
 
-## [MSDN Magazine Issues](https://learn.microsoft.com/en-us/archive/msdn-magazine/msdn-magazine-issues)
+# [MSDN Magazine Issues](https://learn.microsoft.com/en-us/archive/msdn-magazine/msdn-magazine-issues)
 
-### [2019 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/2019)
+## [2019 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/2019)
 - January [Machine Learning Through Probabilistic Programming](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/january/net-machine-learning-through-probabilistic-programming)
 - January [Coding Naked](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/january/the-working-programmer-coding-naked)
 - February [Minimize Complexity in Multithreaded C# Code](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/february/csharp-minimize-complexity-in-multithreaded-csharp-code)
@@ -62,7 +65,7 @@
 - November [Mixture Model Clustering Using C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/november/test-run-mixture-model-clustering-using-csharp)
 
 
-### [2018 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/2018)
+## [2018 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/2018)
 - January [All About Span: Exploring a New .NET Mainstay](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/january/csharp-all-about-span-exploring-a-new-net-mainstay)
 - February [C# 8.0 and Nullable Reference Types](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/february/essential-net-csharp-8-0-and-nullable-reference-types)
 - February [Event-Driven Architecture in the Cloud with Azure Event Grid](https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/february/azure-event-driven-architecture-in-the-cloud-with-azure-event-grid)
@@ -86,7 +89,7 @@
 
 
 
-### [2017 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/2017)
+## [2017 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/2017)
 - April [Understanding C# foreach Internals and Custom Iterators with yield](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/april/essential-net-understanding-csharp-foreach-internals-and-custom-iterators-with-yield)
 - May [Cross-Platform Code Generation with Roslyn and .NET Core](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/may/net-core-cross-platform-code-generation-with-roslyn-and-net-core)
 - June [Custom Iterators with Yield](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/june/essential-net-custom-iterators-with-yield)
@@ -110,7 +113,7 @@
 
 
 
-### [2016 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/msdn-magazine-issues-from-2016)
+## [2016 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/msdn-magazine-issues-from-2016)
 - January [C# Scripting](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/january/essential-net-csharp-scripting)
 - February [Customizable Scripting in C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/february/csharp-customizable-scripting-in-csharp)
 - February - [Configuration in .NET Core](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/february/essential-net-configuration-in-net-core)
@@ -131,7 +134,7 @@
 
 
 
-### [2015 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2015/msdn-magazine-issues-from-2015)
+## [2015 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2015/msdn-magazine-issues-from-2015)
 - February [C# - Adding a Code Fix to Your Roslyn Analyzer](https://learn.microsoft.com/en-us/archive/msdn-magazine/2015/february/csharp-adding-a-code-fix-to-your-roslyn-analyzer)
 - February [Compilers - What Every Programmer Should Know About Compiler Optimizations](https://learn.microsoft.com/en-us/archive/msdn-magazine/2015/february/compilers-what-every-programmer-should-know-about-compiler-optimizations)
 - May [Upstart - First Day](https://learn.microsoft.com/en-us/archive/msdn-magazine/2015/may/upstart-first-day)
@@ -147,7 +150,7 @@
 
 
 
-### [2014 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/msdn-magazine-issues-from-2014)
+## [2014 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/msdn-magazine-issues-from-2014)
 - February [Aspect-Oriented Programming : Aspect-Oriented Programming with the RealProxy Class](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/february/aspect-oriented-programming-aspect-oriented-programming-with-the-realproxy-class)
 - March [Async Programming : Asynchronous TCP Sockets as an Alternative to WCF](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/march/async-programming-asynchronous-tcp-sockets-as-an-alternative-to-wcf)
 - March [Windows Azure Insider : The Windows Azure Service Bus and the Internet of Things, Part 2](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/march/windows-azure-insider-the-windows-azure-service-bus-and-the-internet-of-things-part-2)
@@ -171,7 +174,7 @@
 
 
 
-### [2013 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/msdn-magazine-issues-from-2013)
+## [2013 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/msdn-magazine-issues-from-2013)
 - January [C# - The C# Memory Model in Theory and Practice, Part 2](https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/january/csharp-the-csharp-memory-model-in-theory-and-practice-part-2)
 - February [Async Programming - Async Causality Chain Tracking](https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/february/async-programming-async-causality-chain-tracking)
 - March [Async/Await - Best Practices in Asynchronous Programming](https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/march/async-await-best-practices-in-asynchronous-programming)
