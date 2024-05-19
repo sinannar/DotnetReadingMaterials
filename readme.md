@@ -1,5 +1,25 @@
 
-
+### [2014 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/msdn-magazine-issues-from-2014)
+- February [Aspect-Oriented Programming : Aspect-Oriented Programming with the RealProxy Class](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/february/aspect-oriented-programming-aspect-oriented-programming-with-the-realproxy-class)
+- March [Async Programming : Asynchronous TCP Sockets as an Alternative to WCF](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/march/async-programming-asynchronous-tcp-sockets-as-an-alternative-to-wcf)
+- March [Windows Azure Insider : The Windows Azure Service Bus and the Internet of Things, Part 2](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/march/windows-azure-insider-the-windows-azure-service-bus-and-the-internet-of-things-part-2)
+- April - [MVVM : Multithreading and Dispatching in MVVM Applications](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/april/mvvm-multithreading-and-dispatching-in-mvvm-applications)
+- April [Async Programming : Patterns for Asynchronous MVVM Applications: Commands](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/april/async-programming-patterns-for-asynchronous-mvvm-applications-commands)
+- April [C# : Using Survival Analysis
+](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/april/csharp-using-survival-analysis)
+- May [C# : A C# 6.0 Language Preview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/may/csharp-a-csharp-6-0-language-preview)
+- May [Async Programming : Patterns for Asynchronous MVVM Applications: Services](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/may/async-programming-patterns-for-asynchronous-mvvm-applications-services)
+- May [C# Best Practices : Dangers of Violating SOLID Principles in C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/may/csharp-best-practices-dangers-of-violating-solid-principles-in-csharp)
+- July [The Working Programmer : Fun with C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/july/the-working-programmer-fun-with-csharp)
+- September [Test Run : Winnow Classification Using C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/september/test-run-winnow-classification-using-csharp)
+- October [Async Programming : Introduction to Async/Await on ASP.NET](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/october/async-programming-introduction-to-async-await-on-asp-net)
+- October [Test Run : Probit Classification Using C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/october/test-run-probit-classification-using-csharp)
+- November [C# : The New and Improved C# 6.0](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/october/csharp-the-new-and-improved-csharp-6-0)
+- November [Async Programming : Unit Testing Asynchronous Code](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/november/async-programming-unit-testing-asynchronous-code)
+- November [Test Run : Consensus Classification Using C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/november/test-run-consensus-classification-using-csharp)
+- November [Load Testing : Load Testing Made Easy with Microsoft Azure and Visual Studio Online](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/november/load-testing-load-testing-made-easy-with-microsoft-azure-and-visual-studio-online)
+- November [Application Instrumentation : Application Analysis with Pin](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/november/application-instrumentation-application-analysis-with-pin)
+- Special Issue [C# : How C# 6.0 Simplifies, Clarifies and Condenses Your Code](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/special-issue/csharp-how-csharp-6-0-simplifies-clarifies-and-condenses-your-code)
 
 ### [2013 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/msdn-magazine-issues-from-2013)
 - January [C# - The C# Memory Model in Theory and Practice, Part 2](https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/january/csharp-the-csharp-memory-model-in-theory-and-practice-part-2)
