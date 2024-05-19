@@ -1,6 +1,5 @@
 name: New Material Request
 description: Recommend a reading material about dotnet or C#
-title: '[Link]: '
 assignees:
   - sinannar
 body:
@@ -21,7 +20,7 @@ body:
         - Beginner
         - Intermediate
         - Senior
-  - type: input
+  - type: textarea
     id: description
     attributes:
       label: What is this material about
