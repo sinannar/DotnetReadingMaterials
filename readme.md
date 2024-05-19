@@ -1,3 +1,21 @@
+### [2016 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/msdn-magazine-issues-from-2016)
+- January [C# Scripting](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/january/essential-net-csharp-scripting)
+- February [Customizable Scripting in C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/february/csharp-customizable-scripting-in-csharp)
+- February - [Configuration in .NET Core](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/february/essential-net-configuration-in-net-core)
+- March [Discrete Event Simulation: A Population Growth Example](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/march/csharp-discrete-event-simulation-a-population-growth-example)
+- March [Managed Profile-Guided Optimization Using Background JIT](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/march/compilers-managed-profile-guided-optimization-using-background-jit)
+- April [.NET Goes Cross-Platform with .NET Core](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/april/net-core-net-goes-cross-platform-with-net-core)
+- April [Logging with .NET Core](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/april/essential-net-logging-with-net-core)
+- May [Writing Clean Code in ASP.NET Core with Dependency Injection](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/may/asp-net-writing-clean-code-in-asp-net-core-with-dependency-injection)
+- May [Maximize your Model-View-ViewModel Experience with Roslyn](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/may/net-compiler-platform-maximize-your-model-view-viewmodel-experience-with-roslyn)
+- June [Language-Agnostic Code Generation with Roslyn](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/june/net-compiler-platform-language-agnostic-code-generation-with-roslyn)
+- June [Dependency Injection with .NET Core](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/june/essential-net-dependency-injection-with-net-core)
+- July [Leverage CQRS to Create Highly Responsive Systems](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/july/cqrs-leverage-cqrs-to-create-highly-responsive-systems)
+- October [PowerShell Just Keeps Getting Better](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/october/essential-net-powershell-just-keeps-getting-better)
+- November [Hidden Disposables](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/november/net-framework-hidden-disposables)
+- December [Rewrite a CRUD System with Events and CQRS](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/december/cutting-edge-rewrite-a-crud-system-with-events-and-cqrs)
+- Connect [What's New in C# 7.0](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/connect/net-framework-what-s-new-in-csharp-7-0)
+- Connect [Secure and Deliver with Rugged DevOps](https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/connect/alm-and-devops-secure-and-deliver-with-rugged-devops)
 
 
 
