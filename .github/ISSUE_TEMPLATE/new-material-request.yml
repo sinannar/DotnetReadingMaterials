@@ -1,4 +1,3 @@
----
 name: New Material Request
 description: Recommend a reading material about dotnet or C#
 title: '[Link]: '
@@ -32,6 +31,5 @@ body:
     attributes:
       label: Public accessible URL of the material
       description: Public URL
----
 
 
