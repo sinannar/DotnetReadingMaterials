@@ -1,3 +1,18 @@
+# Blogs
+- [ASP.NET BLog](https://devblogs.microsoft.com/dotnet/category/aspnet/)
+- [.NET Core BLog](https://devblogs.microsoft.com/dotnet/tag/net-core/)
+- [ASP.NET Core Blog](https://devblogs.microsoft.com/dotnet/category/aspnetcore/)
+- [C# Blog](https://devblogs.microsoft.com/dotnet/category/csharp/)
+
+## Deep Dotnet Youtube [Playlist](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oX8eqDkSw4hH9cSehrGgdr1)
+1. Writing async/await from scratch in C# with Stephen Toub
+2. Deep Dive on LINQ with Stephen Toub
+3. Aneven DEEPER Dive into LINQ with Stephen Toub
+4. Deep Dive int oRegEx with Stephen Toub
+5. A Complete .Net Developer's Guide to Span with Stephen Toub
+6. ...
+
+
 ## [MSDN Magazine Issues](https://learn.microsoft.com/en-us/archive/msdn-magazine/msdn-magazine-issues)
 
 ### [2019 Overview](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/2019)
